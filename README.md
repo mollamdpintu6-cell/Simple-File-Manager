@@ -1,4 +1,4 @@
-# Simple File Manager
+# Simple File Managers 
 
 <img alt="Logo" src="graphics/icon.png" width="120" />
 
